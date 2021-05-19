@@ -18,17 +18,18 @@
 
 __mod_name__ = "Music Player"
 __help__ = """
-          <b>》** TomMusic v2 ** 《</b>
+          <b>》** DAISYXMUSIC v2 ** 《</b>
             
- Tom plays plays music in your group's voice chat
+ DAISYXMUSIC plays plays music in your group's voice chat
  
- Assistant name >> @TomMusicBot
+ Assistant name >> @DaisyXhelper
  
 <b> Setting up </b>
 
 1) Make bot admin
 2) Start a voice chat
 3) Try `/play [song name]` for the first time by an admin
+*) If userbot joined enjoy music, If not add @DaisyXhelper to your group and retry
 
 <b> Commands </b>
 
